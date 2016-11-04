@@ -1,0 +1,1 @@
+Z:\usr\bin\php.exe -f "hunterphotos.php"
